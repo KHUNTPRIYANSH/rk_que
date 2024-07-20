@@ -6,7 +6,7 @@ using namespace std;
 // following things given me into the question paper
 // time is around 1h 45m i guess not sure coz not written in question paper
 // this is question for round 4 at RK office it self
-// you can use your mobile phone or not even internet in this question
+// you can't use your mobile phone or not even internet in this question
 // ===============================================================================
 
 // set of account number unique and 10 digit long
